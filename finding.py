@@ -48,9 +48,9 @@ result = '{}/template/nearyou/php/result.txt'.format(swd)
 
 info = '{}/template/nearyou/php/info.txt'.format(swd)
 
+site = 'nearyou'
+
 ver = '1.1'
-
-
 
 if sys.version_info[0] >= 3:
 
