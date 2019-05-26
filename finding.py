@@ -74,7 +74,7 @@ def banner():
 
         ''' + W)
 
-	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
+	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'MishaproGaming')
 
 	print (G + '[>]' + C + ' Version    : ' + W + ver + '\n')
 
